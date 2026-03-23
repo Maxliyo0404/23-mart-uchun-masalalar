@@ -4,16 +4,16 @@
 
 // 2-masala
 
-// let fruits = ['apple', 'banana', 'orange'];
+
+// // 3-masalalet fruits = ['apple', 'banana', 'orange'];
 // fruits.pop();
 // console.log(fruits);
 
-// 3-masala
 // 
 // 4-masala
 // 
 let names = ['Ali', 'Vali', 'Hasan'];
 for(let i = 0; i < length.names; i ++){
-    console.log(names);
+    console.log(names[i]);
     
 }
