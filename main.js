@@ -31,7 +31,9 @@
 // console.log(num);
 //  2-masala
 
-let fruits = ['apple', 'banana', 'orange'];
+// let fruits = ['apple', 'banana', 'orange'];
+// fruits.shift();
+// console.log(fruits);
 
 
  
