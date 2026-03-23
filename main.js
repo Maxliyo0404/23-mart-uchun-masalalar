@@ -52,6 +52,25 @@
 //     return num < 10 ;
 // })
 // console.log(num);
+// //  6-masala
+// let nums = [4, 7, 9, -2];
+// let num = nums.every(function(num){
+//     return num > -2 ;
+// })
+// console.log(num);
+//  7-masala
+// let colors = ['red', 'green', 'blue', 'yellow'];
+// let color = colors.splice( 1 , 1);
+// console.log(color);
+//  8-masala
+// let nums = [5, 2, 9, 1];
+// let num = nums.sort();
+// console.log(num);
+//  9-masala 
+// let a = [1, 2];
+// let b = [3, 4];
+// let c =a.concat (b);
+// console.log(c);
 
 
 
