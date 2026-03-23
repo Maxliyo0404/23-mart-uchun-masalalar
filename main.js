@@ -10,4 +10,5 @@
 
 // 3-masala
 let cities = ["Tashkent", "Samarkand"];
-cities.push("Bukhara")
+cities.push("Bukhara");
+console.log(cities);
