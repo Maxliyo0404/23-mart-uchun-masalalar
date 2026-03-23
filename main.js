@@ -9,3 +9,4 @@
 // console.log(fruits);
 
 // 3-masala
+let cities = ["Tashkent", "Samarkand"];
