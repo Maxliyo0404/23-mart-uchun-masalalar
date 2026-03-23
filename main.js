@@ -11,3 +11,4 @@
 // 3-masala
 // 
 // 4-masala
+let names =["Ali", "Vali", "Hasan"];
