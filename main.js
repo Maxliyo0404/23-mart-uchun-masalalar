@@ -21,7 +21,7 @@
 // let nums = [3, 9, 1, 12, 5];
 // let katta = nums.reduce((acc, curr) => Math.max(acc , curr));
 // console.log(katta);
- let nums = [10, 30, 80, 100, 60];
- let kichik = nums.reduce((acc, curr) => Math.min(acc, curr));
- console.log(kichik);
+//  let nums = [10, 30, 80, 100, 60];
+//  let kichik = nums.reduce((acc, curr) => Math.min(acc, curr));
+//  console.log(kichik);
  
