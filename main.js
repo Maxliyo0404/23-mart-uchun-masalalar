@@ -36,7 +36,9 @@
 // console.log(fruits);
 
 // 3-masala
-let cars = ['BMW', 'Audi'];
+// let cars = ['BMW', 'Audi'];
+// cars.push('Mercdes');
+// console.log(cars);
 
 
 
