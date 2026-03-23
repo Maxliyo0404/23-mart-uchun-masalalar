@@ -4,6 +4,6 @@
 
 // 2-masala
 
-let fruits = ['apple', 'banana', 'orange'];
-fruits.pop();
-console.log(fruits);
+// let fruits = ['apple', 'banana', 'orange'];
+// fruits.pop();
+// console.log(fruits);
