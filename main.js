@@ -24,4 +24,10 @@
 //  let nums = [10, 30, 80, 100, 60];
 //  let kichik = nums.reduce((acc, curr) => Math.min(acc, curr));
 //  console.log(kichik);
+
+// 1-masala
+let nums = [3, 6, 8, 11, 14, 19 ];
+let num = nums.filter(nums);
+console.log(num);
+
  
