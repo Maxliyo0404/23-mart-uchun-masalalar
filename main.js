@@ -9,6 +9,5 @@
 // console.log(fruits);
 
 // 3-masala
-// let cities = ["Tashkent", "Samarkand"];
-// cities.push("Bukhara");
-// console.log(cities);
+// 
+// 4-masala
