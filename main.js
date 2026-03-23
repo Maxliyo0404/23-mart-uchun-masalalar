@@ -18,3 +18,5 @@
     
 // }
 // 5-masala
+let nums = [3, 9, 1, 12, 5];
+let katta = nums.reduce((acc, curr) => Math.max(acc , curr));
