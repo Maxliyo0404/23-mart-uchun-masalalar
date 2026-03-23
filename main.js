@@ -35,5 +35,9 @@
 // fruits.shift();
 // console.log(fruits);
 
+// 3-masala
+let cars = ['BMW', 'Audi'];
+
+
 
  
