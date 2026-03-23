@@ -3,3 +3,5 @@
 // console.log(number);
 
 // 2-masala
+
+let fruits = ['apple', 'banana', 'orange'];
