@@ -11,8 +11,9 @@
 // 3-masala
 // 
 // 4-masala
-let names =["Ali", "Vali", "Hasan"];
-for (let i = 0; i < names .length; i ++) {
-    console.log(names[i]);
+// 
+let names = ['Ali', 'Vali', 'Hasan'];
+for(let i = 0; i < length.names; i ++){
+    console.log(names);
     
 }
