@@ -26,6 +26,9 @@
 //  console.log(kichik);
 
 // 1-masala
-let nums = [3, 6, 8, 11, 14, 19 ];
+// let nums = [3, 6, 8, 11, 14, 19 ];
+// let num = nums.filter(num => num % 2  !== 0);
+// console.log(num);
+
 
  
