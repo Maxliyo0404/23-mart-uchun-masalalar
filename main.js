@@ -27,7 +27,5 @@
 
 // 1-masala
 let nums = [3, 6, 8, 11, 14, 19 ];
-let num = nums.filter(nums);
-console.log(num);
 
  
