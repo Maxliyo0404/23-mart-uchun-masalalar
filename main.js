@@ -40,6 +40,20 @@
 // cars.push('Mercdes');
 // console.log(cars);
 
+// 4-masala
+
+// let words = ["Hello world"];
+// let word = words.join(" ");
+// console.log(word);
+//  5-masala
+
+// let nums = [3, 5, 12, 8];
+// let num = nums.some(function(num){
+//     return num < 10 ;
+// })
+// console.log(num);
+
+
 
 
  
